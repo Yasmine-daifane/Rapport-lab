@@ -9,22 +9,22 @@ order : 1
 
 ## Introduction {#introduction}
 
-![Introduction image](./images/Introduction.jpg)
+![Introduction image](assets/images/Introduction.jpg)
 *Figure 1: Introduction*
 
 ## Service Social - Khawla Souan {#service-social---khawla-souan}
 
-![Carte d'empathie service social](./images/service-social.png)
+![Carte d'empathie service social](assets/images/service-social.png)
 *Figure 2: Carte d'empathie service social*
 
 ## Médecin Général Algamot Asia {#médecin-général-algamot-asia}
 
-![Carte d'empathie Médecin général](./images/médecin-générale.png)
+![Carte d'empathie Médecin général](assets/images/médecin-générale.png)
 *Figure 3: Carte d'empathie Médecin général*
 
 ## Médecin Général Algamot Asia {#médecin-général-algamot-asia}
 
-![Carte d'empathie Médecin général](./images/médecin-générale.png)
+![Carte d'empathie Médecin général](assets/images/médecin-générale.png)
 *Figure 4: Carte d'empathie Médecin général*
 
 
