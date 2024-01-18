@@ -9,7 +9,7 @@ order : 1
 
 ## Introduction {#introduction}
 
-![Introduction image](./images/Introduction.png)
+![Introduction image](./images/Introduction.jpg)
 *Figure 1: Introduction*
 
 ## Service Social - Khawla Souan {#service-social---khawla-souan}
