@@ -50,3 +50,11 @@ img {
   width: 97%;
 }
 }
+em {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  color: #666;
+  margin-top: 5px;
+}
